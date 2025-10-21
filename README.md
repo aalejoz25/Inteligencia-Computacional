@@ -1,6 +1,8 @@
 # Inteligencia-Computacional
 Repositorio para la materia Inteligencia Computacional de MCIC
 
+🔗 [Excel Asignación](https://udistritaleduco-my.sharepoint.com/:x:/r/personal/mabonillad_udistrital_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7B21AD611F-7165-409B-A0E4-AF89E625B64F%7D&file=AsignacionTareas.xlsx&action=default&mobileredirect=true)
+
 ## Tareas
 
 1. [Fuzzy 1](https://udistritaleduco-my.sharepoint.com/:b:/g/personal/aljutinicoa_udistrital_edu_co/EWhS-sPBektHpQ7z5LeFojIB2UuDpSWCH81fLBRzeSMJaA?e=9et8yJ) [@aalejoz25](https://www.github.com/aalejoz25)
