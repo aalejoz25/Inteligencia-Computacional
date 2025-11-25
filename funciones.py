@@ -1,3 +1,5 @@
+import numpy as np
+
 def trapezoidal(x, a, m, n, b):
     x = np.asarray(x)
     valor = np.zeros_like(x, dtype=float)
